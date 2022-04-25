@@ -1,6 +1,10 @@
 h1 {
 	font-size: 50;
-  font-family: Copperplate, Papyrus, fantasy;
+  font-family: Copperplate, Georgia, fantasy;
+	background-color: #476aa6;
+	padding: 15px;
+	border: 1px #012666
+	text-align: center;
 }
 
 h2 {
@@ -9,3 +13,4 @@ h2 {
 }
 
 p1 {
+}
